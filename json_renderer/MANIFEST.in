@@ -1,0 +1,2 @@
+graft json_renderer/nbextension
+include json_renderer/labextension/*.tgz

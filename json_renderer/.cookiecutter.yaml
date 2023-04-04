@@ -1,0 +1,7 @@
+default_context:
+    author_name: "Sneha Natekar"
+    author_email: "sneha-natekar@github.com"
+    mime_type: "application/json"
+    file_type: "json"
+    mime_short_name: "JSON"
+    extension_name: "json_renderer"
